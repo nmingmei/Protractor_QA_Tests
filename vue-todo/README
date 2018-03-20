@@ -1,2 +1,4 @@
-This is a series of tests written with Protractor for this website: http://todomvc.com/examples/vue/
+TODOLIST QA
+
+This is a series of tests written with Protractor framework for this website: http://todomvc.com/examples/vue/
 Modify the conf.js file to reflect the correct spec file name. Then run the conf.js file to perform the tests.
